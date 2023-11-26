@@ -4,4 +4,9 @@ My name is Kate Shreckengast. I am currently a graduate student at Drexel Univer
 
 https://info552ks.netlify.app
 
+I have also included links to a few sites focused on digital preservation and long-term data storage that I find interesting and relevant to my current learning and interests:
+
+https://github.com/digipres/awesome-digital-preservation
+https://github.com/wellcomecollection/storage-service
+
 
